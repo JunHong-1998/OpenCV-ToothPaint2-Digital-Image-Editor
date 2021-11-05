@@ -1,2 +1,2 @@
 # OpenCV-ToothPaint2-Digital-Image-Editor
-A 2D image editor with digital image processing features built using OpenCV
+This application named ‘Tooth Paint’ version TP_2020.2 (64-bit) or version 2 was developed within a week. The purpose of building this application is to provide 2D image manipulation with features such as splitting and merging of image, find the histogram and provide equalization technique as well as filtration technique including smoothing, sharpening, effects and customization. Qt is a famous open source widget toolkit that chosen as GUI (Graphics User Interface) for this application while the main library used for image manipulation is OpenCV. Other than that, library such as numpy, math, time, os and sys are used to assist the application.
